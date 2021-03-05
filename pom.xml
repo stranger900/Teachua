@@ -5,8 +5,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.softserve.teachua</groupId>
-	<artifactId>TeachUA</artifactId>
-	<version>1.0</version>
+	<artifactId>dev</artifactId>
+	<version></version>
 
 	<packaging>war</packaging>
 
